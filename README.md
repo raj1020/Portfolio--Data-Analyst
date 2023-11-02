@@ -16,7 +16,7 @@ Table of Contents
 
 [About](https://github.com/Prad111/Portfolio--Data-Analyst/blob/main/README.md#about)
 
-[Portfolio Projects](https://github.com/Prad111/Data-Analyst-Portfolio/blob/main/README.md#portfolio-projects)
+[Portfolio Projects](https://github.com/Prad111/Portfolio--Data-Analyst/blob/main/README.md#portfolio-projects)
 
   
 
