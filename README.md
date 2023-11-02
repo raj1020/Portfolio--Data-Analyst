@@ -59,6 +59,7 @@ SQL, Python, Pandas, Numpy, Seaborn, Matplotlib, SciPy
 
 ### **Results:**
 Using SQL and Python, it was possible to provide the answers to the questions mentioned in the **Description** section above and explore the relationship between the various business variables that impact AdventureWorks business.
+The entire result of the analysis has been shown in [this file](https://github.com/Prad111/Portfolio--Data-Analyst/blob/main/AdventureWorks.ipynb) along with the necessary explanation.
 
 
 
