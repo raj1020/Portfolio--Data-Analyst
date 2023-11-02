@@ -20,7 +20,7 @@ Table of Contents
 
   
 
-  -Python
+  -SQL and Python
 
     -Adventure Works Analysis
 
@@ -35,5 +35,30 @@ Contact
 
 ## **Portfolio Projects**
 In this section I will list data analytics projects briefly describing the technology stack used to solve cases.
+
+### **Adventure Works Analysis**
+In this project I use SQL, Python and Data Analytics skills to analyze the [Adventure Works Dataset](https://learn.microsoft.com/en-us/sql/samples/adventureworks-install-configure?view=sql-server-ver15&tabs=ssms) and offer valuable insights. 
+
+### **Goal**
+The goal of the project is to answer the following questions that could help the management of AdventureWorks answer some important questions about their business:
+
+### **Description**
+The project focussed on answering the following questions:
+1. What are the regional sales in the best performing country?
+2. What is the relationship between annual leave taken and bonus?
+3. What is the relationship between Country and Revenue?
+4. What is the relationship between sick leave and Job Title (PersonType)?
+5. What is the relationship between store trading duration and revenue?
+6. What is the relationship between the size of the stores, number of employees and revenue?
+
+### **Skills:** 
+Data cleaning, data analysis, correlation matrices, data visualization
+
+### **Technology:**
+SQL, Python, Pandas, Numpy, Seaborn, Matplotlib, SciPy
+
+### **Results:**
+Using SQL and Python, it was possible to provide the answers to the questions mentioned in the **Description** section above and explore the relationship between the various business variables that impact AdventureWorks business.
+
 
 
