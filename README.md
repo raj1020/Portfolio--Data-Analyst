@@ -70,7 +70,7 @@ In this project I use Power BI Desktop and Power BI Service to analyze the sales
   The goal of the project is to analyze the sales and profit of the comany so that the management of the company can adjust their strategy to get the best results.
       
   ##### **Description**
-  The project focussed on answering the following questions:
+  The project focussed on addressing the following issues:
   1. Calculate Total Sales, Total Profit and Profit Margin
   2. Analyze the number of orders placed
   3. Compare the sales of each product between selected period and the previous year
