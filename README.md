@@ -22,11 +22,11 @@ Table of Contents
 
   ##**SQL and Python**
 
-    [Adventure Works Analysis](https://github.com/Prad111/Portfolio--Data-Analyst/blob/main/README.md)
+  [Adventure Works Analysis](https://github.com/Prad111/Portfolio--Data-Analyst/blob/main/README.md)
 
   ##**Power BI**
 
-    -Sales Analysis Dashboard
+  [Sales Analysis Dashboard] (https://github.com/Prad111/Portfolio--Data-Analyst/blob/main/README.md)
 
 Certificates
 
@@ -62,4 +62,6 @@ In this project I use SQL, Python and Data Analytics skills to analyze the [Adve
 The entire result of the analysis has been shown in [this file](https://github.com/Prad111/Portfolio--Data-Analyst/blob/main/AdventureWorks.ipynb) along with the necessary explanation.
       
       
-      
+
+###**Sales Analysis Dashboard in PowerBI**
+In this project I use Power BI Desktop and Power BI Service to analyze the sales data of a fictious company. The analysis was presented in the form of a Dashboard published in Power BI Service.  
