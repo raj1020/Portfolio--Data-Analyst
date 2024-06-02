@@ -63,5 +63,5 @@ The entire result of the analysis has been shown in [this file](https://github.c
       
       
 
-###**Sales Analysis Dashboard in PowerBI**
+###**Sales Analysis Dashboard**
 In this project I use Power BI Desktop and Power BI Service to analyze the sales data of a fictious company. The analysis was presented in the form of a Dashboard published in Power BI Service.  
