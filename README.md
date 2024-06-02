@@ -86,8 +86,8 @@ In this project I use Power BI Desktop and Power BI Service to analyze the sales
       
 #### **Results:**
 It was possile to perform analysis as mentioned in the [Description](https://github.com/Prad111/Portfolio--Data-Analyst/blob/main/README.md#Sales-Analysis-Dashboard section. The entire result of the analysis has been shown in [this file](https://github.com/Prad111) The analysis shows that for the year 2019: 
--Total Sales decreased by 9.23%
--Total Sales declined for all products but two
--Export Channel has the highest profit margin
--Though there have been increase in sales to the top buyers, the sales has fallen for the majority of other customers which has led to the fall in Total Sales and Profit.
+- Total Sales decreased by 9.23%
+- Total Sales declined for all products but two
+- Export Channel has the highest profit margin
+- Though there have been increase in sales to the top buyers, the sales has fallen for the majority of other customers which has led to the fall in Total Sales and Profit.
           
