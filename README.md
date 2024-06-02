@@ -39,10 +39,10 @@ In this section I will list data analytics projects briefly describing the techn
 ### **Adventure Works Analysis**
 In this project I use SQL, Python and Data Analytics skills to analyze the [Adventure Works Dataset](https://learn.microsoft.com/en-us/sql/samples/adventureworks-install-configure?view=sql-server-ver15&tabs=ssms) and offer valuable insights. 
 
-### **Goal**
+#### **Goal**
 The goal of the project is to answer the following questions that could help the management of AdventureWorks answer some important questions about their business:
 
-### **Description**
+#### **Description**
 The project focussed on answering the following questions:
 1. What are the regional sales in the best performing country?
 2. What is the relationship between annual leave taken and bonus?
