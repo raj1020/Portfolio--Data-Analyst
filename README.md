@@ -43,13 +43,13 @@ In this project I use SQL, Python and Data Analytics skills to analyze the [Adve
   The goal of the project is to answer the following questions that could help the management of AdventureWorks answer some important questions about their business:
       
   ##### **Description**
-    The project focussed on answering the following questions:
-      1. What are the regional sales in the best performing country?
-      2. What is the relationship between annual leave taken and bonus?
-      3. What is the relationship between Country and Revenue?
-      4. What is the relationship between sick leave and Job Title (PersonType)?
-      5. What is the relationship between store trading duration and revenue?
-      6. What is the relationship between the size of the stores, number of employees and revenue?
+  The project focussed on answering the following questions:
+  1. What are the regional sales in the best performing country?
+  2. What is the relationship between annual leave taken and bonus?
+  3. What is the relationship between Country and Revenue?
+  4. What is the relationship between sick leave and Job Title (PersonType)?
+  5. What is the relationship between store trading duration and revenue?
+  6. What is the relationship between the size of the stores, number of employees and revenue?
       
   #### **Skills:** 
   Data cleaning, data analysis, correlation matrices, data visualization
