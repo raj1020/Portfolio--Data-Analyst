@@ -64,3 +64,21 @@ The entire result of the analysis has been shown in [this file](https://github.c
       
 ### **Sales Analysis Dashboard**
 In this project I use Power BI Desktop and Power BI Service to analyze the sales data of a fictious company. The analysis was presented in the form of a Dashboard published in Power BI Service.  
+
+
+##### **Goal**
+  The goal of the project is to 
+      
+  ##### **Description**
+  The project focussed on answering the following questions:
+      1. 
+  #### **Skills:** 
+  Data cleaning, data analysis, 
+      
+  ### **Technology:**
+  Power BI Desktop, Power BI Service, Excel
+      
+  #### **Results:**
+  Using 
+The entire result of the analysis has been shown in [this file](https://github.com/Prad111) along with the necessary explanation.
+      
