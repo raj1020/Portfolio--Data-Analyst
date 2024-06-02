@@ -20,11 +20,11 @@ Table of Contents
 
   
 
-  ##**SQL and Python**
+  ## **SQL and Python**
 
 [Adventure Works Analysis](https://github.com/Prad111/Portfolio--Data-Analyst/blob/main/README.md#Adventure-Works-Analysis)
 
-  ##**Power BI**
+  ## **Power BI**
 
 [Sales Analysis Dashboard](https://github.com/Prad111/Portfolio--Data-Analyst/blob/main/README.md#Sales-Analysis-Dashboard)
 
