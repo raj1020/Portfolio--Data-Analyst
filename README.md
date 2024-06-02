@@ -26,7 +26,7 @@ Table of Contents
 
   -Power BI
 
-    -Olist Analysis
+    -Sales Analysis Dashboard
 
 Certificates
 
