@@ -40,10 +40,10 @@ In this section I will list data analytics projects briefly describing the techn
 In this project I use SQL, Python and Data Analytics skills to analyze the [Adventure Works Dataset](https://learn.microsoft.com/en-us/sql/samples/adventureworks-install-configure?view=sql-server-ver15&tabs=ssms) and offer valuable insights. 
 
   ##### **Goal**
-      The goal of the project is to answer the following questions that could help the management of AdventureWorks answer some important questions about their business:
+  The goal of the project is to answer the following questions that could help the management of AdventureWorks answer some important questions about their business:
       
   ##### **Description**
-      The project focussed on answering the following questions:
+  The project focussed on answering the following questions:
       1. What are the regional sales in the best performing country?
       2. What is the relationship between annual leave taken and bonus?
       3. What is the relationship between Country and Revenue?
@@ -52,14 +52,14 @@ In this project I use SQL, Python and Data Analytics skills to analyze the [Adve
       6. What is the relationship between the size of the stores, number of employees and revenue?
       
   #### **Skills:** 
-      Data cleaning, data analysis, correlation matrices, data visualization
+  Data cleaning, data analysis, correlation matrices, data visualization
       
   ### **Technology:**
-      SQL, Python, Pandas, Numpy, Seaborn, Matplotlib, SciPy
+  SQL, Python, Pandas, Numpy, Seaborn, Matplotlib, SciPy
       
   #### **Results:**
-      Using SQL and Python, it was possible to provide the answers to the questions mentioned in the **Description** section above and explore the relationship between the various business variables that impact AdventureWorks business.
-      The entire result of the analysis has been shown in [this file](https://github.com/Prad111/Portfolio--Data-Analyst/blob/main/AdventureWorks.ipynb) along with the necessary explanation.
+  Using SQL and Python, it was possible to provide the answers to the questions mentioned in the **Description** section above and explore the relationship between the various business variables that impact AdventureWorks business.
+The entire result of the analysis has been shown in [this file](https://github.com/Prad111/Portfolio--Data-Analyst/blob/main/AdventureWorks.ipynb) along with the necessary explanation.
       
       
       
