@@ -1,7 +1,7 @@
 # Portfolio--Data-Analyst
 # **Prad Lamichhane - Data-Analyst-Portfolio**
 ## **About**
-👋 Hi, I am Prad Lamichhane and I am a Data Analyst. I have a diverse background in ranging from Banking to Dairy, Health Care, and Transportation in both Australia and abroad. I have recently completed Data Analytics Bootcamp from Generation Australia. I have developed a strong foundation in business and economics and a passion for using data to uncover meaningful insights. I am excited to bring my technical and analytical skills to the field of data science as an entry-level data specialist.
+👋 Hi, I am Prad Lamichhane and I am a **Microsoft Certified Power BI Data Analyst**. I have a diverse background in ranging from Banking to Dairy, Health Care, and Transportation in both Australia and abroad. I have recently completed Data Analytics Bootcamp from Generation Australia. I have developed a strong foundation in business and economics and a passion for using data to uncover meaningful insights. I am excited to bring my technical and analytical skills to the field of data science as an entry-level data specialist.
 
 During my bootcamp, I honed my ability to work with complex data and developed a keen eye for identifying patterns and trends. I also gained experience using various tools like Python, SQL, Shell, Git and PowerBI for the purpose of Data Analysis, which I believe will be valuable assets in my role as a data analyst.
 
