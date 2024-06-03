@@ -85,7 +85,7 @@ In this project I use Power BI Desktop and Power BI Service to analyze the sales
   Power BI Desktop, Power BI Service, Excel
       
 #### **Results:**
-It was possile to perform analysis as mentioned in the [Description](https://github.com/Prad111/Portfolio--Data-Analyst/blob/main/README.md#Sales-Analysis-Dashboard) section. The entire result of the analysis has been shown in [this file](https://github.com/Prad111/Portfolio--Data-Analyst/blob/main/Sales_Analysis for Portfolio.pbix) The analysis shows that for the year 2019: 
+It was possile to perform analysis as mentioned in the [Description](https://github.com/Prad111/Portfolio--Data-Analyst/blob/main/README.md#Sale_Analysis_Portfolio.pbix) section. The entire result of the analysis has been shown in [this file](https://github.com/Prad111/Portfolio--Data-Analyst/blob/main/Sales_Analysis for Portfolio.pbix) The analysis shows that for the year 2019: 
 - Total Sales decreased by 9.23%
 - Total Sales declined for all products but two
 - Export Channel has the highest profit margin
