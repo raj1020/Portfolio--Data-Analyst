@@ -29,7 +29,7 @@ Table of Contents
 [Sales Analysis Dashboard](https://github.com/Prad111/Portfolio--Data-Analyst/blob/main/README.md#Sales-Analysis-Dashboard)
 
 ## **Certifications**
-[Certifications](https://github.com/Prad111/Portfolio--Data-Analyst/blob/main/README.md#Certifications)
+[Power BI](https://github.com/Prad111/Portfolio--Data-Analyst/blob/main/README.md#Certifications)
 
 Contact
 
