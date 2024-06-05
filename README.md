@@ -91,5 +91,5 @@ It was possile to perform analysis as mentioned in the [Description](https://git
 - Total Sales declined for all products but two
 - Export Channel has the highest profit margin
 - Though there have been increase in sales to the top buyers, the sales has fallen for the majority of other customers which has led to the fall in Total Sales and Profit.
-## **Certifications**
+### **Certifications**
   I am a Microsoft Certified PowerBI Data Analyst. I passed my Microsoft PL-300 exam in May 2024.
