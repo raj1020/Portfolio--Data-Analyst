@@ -29,7 +29,7 @@ Table of Contents
 [Sales Analysis Dashboard](https://github.com/Prad111/Portfolio--Data-Analyst/blob/main/README.md#Sales-Analysis-Dashboard)
 
 ## **Certifications**
-[Power BI](https://github.com/Prad111/Portfolio--Data-Analyst/blob/main/README.md#Certifications)
+[Microsoft Certifications](https://github.com/Prad111/Portfolio--Data-Analyst/blob/main/README.md#Microsoft-Certifications)
 
 Contact
 
@@ -92,5 +92,5 @@ It was possile to perform analysis as mentioned in the [Description](https://git
 - Export Channel has the highest profit margin
 - Though there have been increase in sales to the top buyers, the sales has fallen for the majority of other customers which has led to the fall in Total Sales and Profit.
 
-## **Certifications**
+## **Microsoft Certifications**
   I am a Microsoft Certified PowerBI Data Analyst. I passed my Microsoft PL-300 exam in May 2024.
