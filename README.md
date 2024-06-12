@@ -7,8 +7,6 @@ During my bootcamp, I honed my ability to work with complex data and developed a
 
 In my free time, I enjoy exploring new data analysis tools and techniques, and I am always looking for opportunities to expand my knowledge and skills. Whether working on a team or independently, I am driven by the thrill of discovering new insights and the satisfaction of using data to solve complex problems.
 
-My CV in [pdf](https://github.com/Prad111/Portfolio--Data-Analyst/blob/main/Prad_Resume_github.pdf).
-
 This is a repository to showcase skills, share projects and track my progress in Data Analytics related topics.
 
 
