@@ -1,7 +1,7 @@
 # Portfolio--Data-Analyst
-# **Prad Lamichhane - Data-Analyst-Portfolio**
+# **Raj Lamichhane - Data-Analyst-Portfolio**
 ## **About**
-👋 Hi, I am Prad Lamichhane and I am a **Microsoft Certified Power BI Data Analyst**. I have a diverse background in ranging from Data Analytics to Banking, Admin in Aged Care, and Transportation in both Australia and abroad. I have recently completed Data Analytics Bootcamp from Generation Australia. I have developed a strong foundation in Data Analytics, business and economics and a passion for using data to uncover meaningful insights. I am excited to bring my technical and analytical skills to the field of data science as a data analyst.
+👋 Hi, I am Raj Lamichhane and I am a **Microsoft Certified Power BI Data Analyst**. I have a diverse background in ranging from Data Analytics to Banking, Admin in Aged Care, and Transportation in both Australia and abroad. I have recently completed Data Analytics Bootcamp from Generation Australia. I have developed a strong foundation in Data Analytics, business and economics and a passion for using data to uncover meaningful insights. I am excited to bring my technical and analytical skills to the field of data science as a data analyst.
 
 While working as a Data Analyst for the Consumer Banking division of a Bank in Nepal, I regularly prepared reports and dashboards to support the leadership team in decision-making.I collaborated with internal and external stakeholders by sharing insights and interactive visualisations. I extensively used Power BI, Excel and SQL for data analysis and for ensuring data integrity and accuracy. My data driven insights and close collaboration with other internal stakeholders such as sales, credit, collection and recovery teams helped the bank to reduce its nonperforming assets. 
 
